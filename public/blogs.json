@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "Cover Image": "https://i.ibb.co/Xtxnwqt/1.jpg",
+        "Title": "Exploring the Mysteries of Quantum Physics",
+        "Author": "Dr. Amelia Johnson",
+        "Author Image": "https://i.ibb.co/nL2mQ7F/boy1.png",
+        "Posted Date": "2023-02-15",
+        "Reading Time": 5,
+        "Hashtag": "#Science #QuantumPhysics"
+    },
+    {
+        "ID": 2,
+        "Cover Image": "https://i.ibb.co/kx2xBwR/2.png",
+        "Title": "Mastering the Art of Digital Marketing",
+        "Author": "John Smith",
+        "Author Image": "https://i.ibb.co/r50DgJB/boy2.jpg",
+        "Posted Date": "2023-03-20",
+        "Reading Time":8,
+        "Hashtag": "#Marketing #DigitalMarketing"
+    },
+    {
+        "ID": 3,
+        "Cover Image": "https://i.ibb.co/jMcdjFP/3.png",
+        "Title": "Traveling Through Time: A Historical Adventure",
+        "Author": "Sarah Williams",
+        "Author Image": "https://i.ibb.co/sPpFGt6/girl1.jpg",
+        "Posted Date": "2023-04-10",
+        "Reading Time": 5,
+        "Hashtag": "#History #TimeTravel"
+    },
+    {
+        "ID": 4,
+        "Cover Image": "https://i.ibb.co/bJNrkWV/4.jpg",
+        "Title": "Culinary Delights from Around the World",
+        "Author": "Chef Michael Rodriguez",
+        "Author Image": "https://i.ibb.co/Mcc1w4z/girl2.jpg",
+        "Posted Date": "2023-05-05",
+        "Reading Time": 2,
+        "Hashtag": "#Food #Cuisine"
+    }
+]
